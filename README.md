@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vivek
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning CNN,RNN,OpenCV
+- 📫 EMAIL: gupta.vi2001@gmail.com
