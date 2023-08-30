@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guptaxvivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guptaxvivek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guptaxvivek" target="blank"><img align="center" src="https://github.com/guptaxvivek/guptaxvivek/assets/19484508/b62d7ec1-5a56-451e-920d-857bc5a8fe52" alt="guptaxvivek" height="30" width="40" /></a>
 <a href="https://instagram.com/guptax.vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptax.vivek" height="30" width="40" /></a>
 </p>
 
