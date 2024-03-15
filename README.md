@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/guptaxvivek" target="blank"><img src="https://img.shields.io/twitter/follow/guptaxvivek?logo=twitter&style=for-the-badge" alt="guptaxvivek" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Deeo Learning**
 
-- 💬 Ask me about **python, pandas, tableau and machine learning**
+- 💬 Ask me about **data analysis, EDA, python, pandas, tableau and machine learning**
 
 - 📫 How to reach me **gupta.vi2001@gmail.com**
 
