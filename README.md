@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/guptaxvivek" target="blank"><img src="https://img.shields.io/twitter/follow/guptaxvivek?logo=twitter&style=for-the-badge" alt="guptaxvivek" /></a> </p>
 
-- 🌱 I’m currently learning **Deeo Learning**
+- 🌱 I’m currently learning **LangChain**
 
 - 💬 Ask me about **data analysis, EDA, python, pandas, tableau and machine learning**
 
